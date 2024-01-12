@@ -1,0 +1,36 @@
+body{
+    background-image: url(6640118.jpg);
+    background-size: 720px;
+    background-repeat: no-repeat;
+    background-repeat: initial;
+    margin: 0%;
+
+}
+header{
+     font-size: 25px;
+     background-color: rgb(56, 173, 188);
+     padding: 5px;
+     margin: 0%;
+     color: rgb(179, 27, 151);
+     margin-top: 0%;
+     background-repeat: round;
+}
+nav{
+    display: flex;
+    font-size: 30px;
+    list-style: none;
+
+}
+li{
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 25px;
+    margin: 20px;
+}nav ul li{
+   
+    text-decoration: none;
+}
